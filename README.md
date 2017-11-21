@@ -125,7 +125,7 @@ public class Cuadrilatero implements Poligono {
     
 }
 ~~~
-+clase abstracta triangulo
++ clase abstracta triangulo
 ~~~
 public abstract class Triangulo implements Poligono {
     @Override
